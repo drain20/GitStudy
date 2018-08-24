@@ -7,6 +7,7 @@
 <title>1.jsp</title>
 </head>
 <body>
-1.jsp��� �߰��մϴ�
+1.jsp±â´É Ãß°¡ÇÕ´Ï´Ù
+    oh yes!
 </body>
 </html>
