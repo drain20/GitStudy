@@ -7,7 +7,11 @@
 <title>2.jsp</title>
 </head>
 <body>
+<<<<<<< HEAD
 첫번쨰 기능 수정 
   
+=======
+ss
+>>>>>>> branch 'master' of https://github.com/drain20/GitStudy.git
 </body>
 </html>

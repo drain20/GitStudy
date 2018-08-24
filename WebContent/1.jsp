@@ -7,7 +7,12 @@
 <title>1.jsp</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h2>첫번쨰 기능 추가 </h2>
   
+=======
+1.jsp±â´É Ãß°¡ÇÕ´Ï´Ù
+    oh yes!
+>>>>>>> branch 'master' of https://github.com/drain20/GitStudy.git
 </body>
 </html>
