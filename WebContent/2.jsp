@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>2.jsp</title>
 </head>
 <body>
-
+ss
 </body>
 </html>
