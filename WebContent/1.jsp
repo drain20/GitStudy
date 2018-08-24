@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>1.jsp</title>
 </head>
 <body>
-
+1.jsp기능 추가합니다
 </body>
 </html>
