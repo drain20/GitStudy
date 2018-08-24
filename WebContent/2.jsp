@@ -7,6 +7,7 @@
 <title>2.jsp</title>
 </head>
 <body>
-
+첫번쨰 기능 수정 
+  
 </body>
 </html>
