@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="AllInOneWeb">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
         <property name="context-root" value="AllInOneWeb"/>
         <property name="java-output-path" value="/AllInOneWeb/build/classes"/>
+=======
+    <wb-module deploy-name="GitStudyProj">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="GitStudyProj"/>
+        <property name="java-output-path" value="/GitStudyProj/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/drain20/GitStudy.git
     </wb-module>
 </project-modules>

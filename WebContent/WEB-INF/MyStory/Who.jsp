@@ -47,6 +47,7 @@
     
     	
     </div>
+     <h2>Simponi!!</h2>
     
     <div class="col-xs-8 col-sm-8 col-md-8 text-center " style="margin-top: 200px">
 			<!--  footpart  만들기 -->
